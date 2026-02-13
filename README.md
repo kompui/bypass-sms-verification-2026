@@ -10,8 +10,8 @@ This happens because services use APIs (like Twilio Lookups) to check the **Carr
 ## 🛠 The Solution: Non-VoIP (Cellular) Numbers
 To bypass this, you need a number that returns a `Mobile` or `Cellular` carrier type in the HLR (Home Location Register) lookup.
 
-### Top Recommendation: Hero 
-After testing multiple providers in 2025-2026, **[Hero](https://hero-sms.com)** has proven to be the most reliable for bypassing strict SMS filters.
+### Top Recommendation: HeroSMS
+After testing multiple providers in 2025-2026, **[HeroSMS](https://hero-sms.com)** has proven to be the most reliable for bypassing strict SMS filters.
 
 **Why it works:**
 - **Carrier Recognition:** Numbers are sourced from real SIM pools, so they appear as physical devices to verification algorithms.
